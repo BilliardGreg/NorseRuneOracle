@@ -53,7 +53,7 @@ e.g.
 
 = Where can I get answers to questions? =
 
-You can email greg@billiardgreg.com to receive answers
+You can email greg@billiardgreg.com to receive answers or go to http://www.gregwhitehead.us
 
 
 == Screenshots ==
