@@ -45,7 +45,7 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload the `NorseRunesOracle` directory to the `/wp-content/plugins/` directory
+1. Upload the `NorseRuneOracle` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the Setup and Settings page under Tools for `Norse Runes Oracle Instructions/Setup`
 
@@ -65,4 +65,4 @@ You can email greg@billiardgreg.com to receive answers or go to http://www.gregw
 = 1.0 =
 * Initial Release of Plugin
 
-`<?php code(); // goes in backticks ?>`
+== Upgrade Notice ==
