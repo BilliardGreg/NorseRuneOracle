@@ -1,7 +1,7 @@
 === Norse Rune Oracle Plugin ===
 Contributors: billiardgreg
 Donate link: http://www.billiardgreg.com/
-Tags: oracle, entertainment, fun, games, magic, mystic, phsychic, run readings, runes, tarot, self-help, cards, car games
+Tags: oracle, entertainment, fun, games, magic, mystic, phsychic, run readings, runes, tarot, self-help, cards, card games
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: trunk
