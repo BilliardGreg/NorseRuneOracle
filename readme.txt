@@ -66,3 +66,6 @@ You can email greg@billiardgreg.com to receive answers or go to http://www.gregw
 * Initial Release of Plugin
 
 == Upgrade Notice ==
+
+= 1.0 =
+* Initial Release of Plugin
