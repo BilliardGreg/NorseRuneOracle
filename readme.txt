@@ -12,7 +12,7 @@ The Norse Runes Oracle Plugin allows you to interpret single runes or do rune ca
 
 == Description ==
 
-Nore Runes are an ancient alphabet used in Germanic countries. Today, they are used in magic and divination by many Pagans and Wiccans. Although their meanings can sometimes be a bit obscure, most people who work with runes find that the best way to incorporate them into divination is to ask a specific question based upon your current situation. Although you don’t have to be of Norse ancestry to use the runes, you’ll have a far better understanding of the symbols and their meanings if you have some knowledge of the mythology and history of the Germanic peoples; this way you can interpret the runes in the context in which they were meant to be read.
+Norse Runes are an ancient alphabet used in Germanic countries. Today, they are used in magic and divination by many Pagans and Wiccans. Although their meanings can sometimes be a bit obscure, most people who work with runes find that the best way to incorporate them into divination is to ask a specific question based upon your current situation. Although you don’t have to be of Norse ancestry to use the runes, you’ll have a far better understanding of the symbols and their meanings if you have some knowledge of the mythology and history of the Germanic peoples; this way you can interpret the runes in the context in which they were meant to be read.
 
 This Plugin allows you to use runes as a functioning part of your website.
 
