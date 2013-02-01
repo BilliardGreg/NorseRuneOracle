@@ -1,4 +1,4 @@
-=== Norse Rune Oracle Plugin ===
+﻿=== Norse Rune Oracle Plugin ===
 Contributors: billiardgreg
 Donate link: http://www.billiardgreg.com/
 Tags: oracle, entertainment, fun, games, magic, mystic, phsychic, run readings, runes, tarot, self-help, cards, card games
@@ -47,7 +47,7 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload the `NorseRuneOracle` directory to the `/wp-content/plugins/` directory
+1. Upload the directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the Setup and Settings page under Tools for `Norse Runes Oracle Instructions/Setup`
 
