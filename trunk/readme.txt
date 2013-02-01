@@ -16,8 +16,6 @@ Norse Runes are an ancient alphabet used in Germanic countries. Today, they are 
 
 This Plugin allows you to use runes as a functioning part of your website.
 
-https://github.com/BilliardGreg/NorseRuneOracle.git
-
 Here are some of the current features:
 
 * Show all the Runes on a given page.
